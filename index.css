@@ -1,0 +1,32 @@
+body
+{
+    background: white;
+    width: 200px;
+    display: block;
+    margin: 20 auto;
+}
+
+#calculator
+{
+    background: gray;
+    padding: 10px;
+}
+
+#display
+{
+    background: lightgray;
+    font-size: 25px;
+    margin: 10px auto;
+}
+
+#keyboard
+{
+    margin-top: 10px;
+}
+
+button
+{
+    font-size: larger;
+    padding: 5px 10px;
+    width: 40px;
+}
